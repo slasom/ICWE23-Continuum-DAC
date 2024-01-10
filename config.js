@@ -21,7 +21,7 @@ const config = {
 
 //TODO: if it's required
 topicSender:"ShoppingCenterSend",
-topicReceivers:"ShoppingCenterReceivers"
+topicReceivers:"ShoppingCenterReceiversFinal"
 
 
 
